@@ -5,7 +5,7 @@
 **_Hard sums made a little bit easier_**
 
 [![GitHub release](https://img.shields.io/github/v/release/tan-qiao-guo/openmodel?include_prereleases&label=Latest%20build)](../../releases)
-[![License: “As-is” archival](https://img.shields.io/badge/license-archival-only-lightgrey)](#license--disclaimer)
+[![License: “As-is” archival](https://img.shields.io/badge/license-archival-only)](#license--disclaimer)
 
 OpenModel is a Windows application for formulating, visualising and calibrating numerical models with minimal coding overhead.  
 Originally distributed through **openmodel.info** (now offline), it was created and maintained by **Prof. Neil Crout** (School of Biosciences, University of Nottingham, UK). This repository preserves the final public build so that researchers and students can continue to access the software.
