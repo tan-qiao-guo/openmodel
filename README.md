@@ -4,7 +4,7 @@
 
 **_Hard sums made a little bit easier_**
 
-[![GitHub release](https://img.shields.io/github/v/release/your-username/openmodel?include_prereleases&label=Latest%20build)](../../releases)
+[![GitHub release](https://img.shields.io/github/v/release/tan-qiao-guo/openmodel?include_prereleases&label=Latest%20build)](../../releases)
 [![License: “As-is” archival](https://img.shields.io/badge/license-archival-only-lightgrey)](#license--disclaimer)
 
 OpenModel is a Windows application for formulating, visualising and calibrating numerical models with minimal coding overhead.  
@@ -50,4 +50,4 @@ Originally distributed through **openmodel.info** (now offline), it was created 
 
 ```text
 Crout N, Walker A & Tarsitano D. *OpenModel* (software, Windows version, last public release v2025-01).  
-Archived by Q.-G. Tan at GitHub repository https://github.com/<user>/openmodel (accessed <YYYY-MM-DD>).
+Archived by Q.-G. Tan at GitHub repository https://github.com/tan-qiao-guo/openmodel (accessed <YYYY-MM-DD>).
