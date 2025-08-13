@@ -12,7 +12,6 @@ Originally distributed through **openmodel.info** (now offline), it was created 
 
 > “OpenModel is freely available mathematical modelling software for Windows…  
 > A notable feature is its integration of model parameterisation, i.e. adjusting model parameters to fit observations.”  
-> :contentReference[oaicite:0]{index=0}
 
 ---
 
